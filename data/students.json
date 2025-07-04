@@ -1,0 +1,22 @@
+[
+    {
+        "name": "John",
+        "department": "Medicine",
+        "year": 2025
+    },
+    {
+        "name": "Doe",
+        "department": "History",
+        "year": 2010
+    },
+    {
+        "name": "test student",
+        "department": "research",
+        "year": 2020
+    },
+    {
+        "name": "test3 student",
+        "department": "research",
+        "year": 2020
+    }
+]

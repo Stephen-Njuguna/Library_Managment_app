@@ -1,0 +1,26 @@
+[
+    {
+        "title": "The Alchemist",
+        "author": "Pharmacist",
+        "year": 2020,
+        "available": true
+    },
+    {
+        "title": "The Heist",
+        "author": "The Professor",
+        "year": 2021,
+        "available": true
+    },
+    {
+        "title": "Test book",
+        "author": "author",
+        "year": 2018,
+        "available": false
+    },
+    {
+        "title": "Best Seller",
+        "author": "best Author",
+        "year": 2017,
+        "available": false
+    }
+]
